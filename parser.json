@@ -1,0 +1,8 @@
+{
+  "min_version": null,
+  "max_version": null,
+  "location": "tree-sitter-jinja_inline",
+  "lang": "jinja_inline",
+  "url": "https://github.com/cathaysia/tree-sitter-jinja",
+  "semver": false
+}
